@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerAPI_Service", "LoggerAPI_Service.csproj", "{CAE138AB-5814-4724-903D-53130D872A95}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "x4LoggerAPI-Setup", "x4LoggerAPI-Setup\x4LoggerAPI-Setup.vdproj", "{3BBF38AB-3A38-4822-9D62-586DE82DAA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE138AB-5814-4724-903D-53130D872A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE138AB-5814-4724-903D-53130D872A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE138AB-5814-4724-903D-53130D872A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE138AB-5814-4724-903D-53130D872A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBF38AB-3A38-4822-9D62-586DE82DAA74}.Debug|Any CPU.ActiveCfg = Debug
+		{3BBF38AB-3A38-4822-9D62-586DE82DAA74}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CFC476D-8372-4D68-843F-4D767E2B1069}
+	EndGlobalSection
+EndGlobal

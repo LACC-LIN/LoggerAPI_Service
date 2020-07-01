@@ -1,0 +1,9 @@
+version - 2.1.5
+
+->Service name changed to LoggerAPI service from TCP/IP service
+->Installs "C:\Program Files (x86)\PA\Lenze-x4LoggerAPI_Client"
+->The checkbox click directly starts/stops the service to save data locally.
+->Checkbox state remains same even after s/w restart.
+->The s/w can only be closed from task menu by right-click & click close option.
+->The "OK" button minimizes to system tray.
+->Log tab contains button to clear data logs that contains data sent to cloud. Also a button to clear history data older 1 month from current time in the local database.
